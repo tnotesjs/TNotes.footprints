@@ -156,7 +156,7 @@
     <p>洗漱完</p>
     <p>然后屁颠儿屁颠儿地滚去上班</p>
   </template>
-  <template #other-info>早</template>
+  <template #other-info>☀️</template>
 </Footprints>
 
 ## 🗓 01-20
@@ -174,7 +174,7 @@
     <p>间隔一宿，送来洗的量太多了，干不完。</p>
     <p>哎，于是又把衣服鞋子送回了家，打算直接丢洗衣机解决了。</p>
   </template>
-  <template #other-info>晚</template>
+  <template #other-info>🌙</template>
 </Footprints>
 
 ## 🗓 01-19
@@ -235,7 +235,7 @@
   <template #image-list="{ openModal }">
     <img src="../assets/2025-02-04-21-47-56.png" @click="openModal(0)"/>
   </template>
-  <template #other-info>早</template>
+  <template #other-info>☀️</template>
 </Footprints>
 
 ## 🗓 01-11
@@ -249,7 +249,7 @@
     <img src="../assets/2025-02-04-21-12-36.png" @click="openModal(0)"/>
     <img src="../assets/2025-02-04-21-12-41.png" @click="openModal(1)"/>
   </template>
-  <template #other-info>晚</template>
+  <template #other-info>🌙</template>
 </Footprints>
 
 ## 🗓 01-08
