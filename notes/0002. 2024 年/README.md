@@ -36,9 +36,9 @@
     <p>在走申请立案的流程</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-12-17-44-46.png" @click="openModal(0)"/>
-    <img src="../assets/2025-01-12-17-44-58.png" @click="openModal(1)"/>
-    <img src="../assets/2025-01-12-17-45-04.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-17-44-46.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-17-44-58.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-17-45-04.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -49,7 +49,7 @@
     <p>绝育 end ～</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-12-18-08-57.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-18-08-57.png" @click="openModal(0)"/>
   </template>
   <template #other-info>元宵节</template>
 </Footprints>
@@ -61,7 +61,7 @@
     <p>开始绝育</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-12-19-18-09.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-18-09.png" @click="openModal(0)"/>
   </template>
   <template #other-info>元宵节</template>
 </Footprints>
@@ -83,9 +83,9 @@
     <p>搜如何缓解猫咪发情时的痛苦，正在学习按摩手法中…</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-12-19-18-50.png" @click="openModal(0)"/>
-    <img src="../assets/2025-01-12-19-18-54.png" @click="openModal(1)"/>
-    <img src="../assets/2025-01-12-19-18-59.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-18-50.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-18-54.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-18-59.png" @click="openModal(2)"/>
   </template>
   <template #other-info>大年初三</template>
 </Footprints>
@@ -98,7 +98,7 @@
     <p>还行</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-12-19-20-04.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-20-04.png" @click="openModal(0)"/>
   </template>
   <template #other-info>大年初一</template>
 </Footprints>
@@ -114,13 +114,13 @@
     <p>—— week 挨揍 の 一天</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-12-19-21-09.png" @click="openModal(0)"/>
-    <img src="../assets/2025-01-12-19-21-14.png" @click="openModal(1)"/>
-    <img src="../assets/2025-01-12-19-21-17.png" @click="openModal(2)"/>
-    <img src="../assets/2025-01-12-19-21-22.png" @click="openModal(3)"/>
-    <img src="../assets/2025-01-12-19-21-26.png" @click="openModal(4)"/>
-    <img src="../assets/2025-01-12-19-21-31.png" @click="openModal(5)"/>
-    <img src="../assets/2025-01-12-19-21-34.png" @click="openModal(6)"/>
-    <img src="../assets/2025-01-12-19-21-38.png" @click="openModal(7)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-21-09.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-21-14.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-21-17.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-21-22.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-21-26.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-21-31.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-21-34.png" @click="openModal(6)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-21-38.png" @click="openModal(7)"/>
   </template>
 </Footprints>

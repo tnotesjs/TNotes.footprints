@@ -13,10 +13,10 @@
     <p>印象深刻的细节说来有点儿奇怪，就是哪吒撒尿的那个片段，撒完之后又续了一小段，创作有心了 ~(¯▽¯~)。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-18-11-29.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-18-11-34.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-15-18-11-39.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-15-18-11-53.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-18-11-29.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-18-11-34.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-18-11-39.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-18-11-53.png" @click="openModal(3)"/>
   </template>
 </Footprints>
 
@@ -48,7 +48,7 @@
     <p>记得这个跑步机是 24 年初左右从闲鱼入手的，入手价是 1080，用了一年左右，也是时候道别拉 ～</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-01-23.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-01-23.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -95,15 +95,15 @@
     <p>---</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-04-21-30-09.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-04-21-30-22.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-04-21-27-16.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-04-21-27-23.png" @click="openModal(3)"/>
-    <img src="../assets/2025-02-04-21-36-50.png" @click="openModal(4)"/>
-    <img src="../assets/2025-02-04-21-36-58.png" @click="openModal(5)"/>
-    <img src="../assets/2025-02-04-21-29-19.png" @click="openModal(6)"/>
-    <img src="../assets/2025-02-04-21-29-35.png" @click="openModal(7)"/>
-    <img src="../assets/2025-02-04-21-29-54.png" @click="openModal(8)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-30-09.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-30-22.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-27-16.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-27-23.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-36-50.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-36-58.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-29-19.png" @click="openModal(6)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-29-35.png" @click="openModal(7)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-29-54.png" @click="openModal(8)"/>
   </template>
 </Footprints>
 
@@ -126,7 +126,7 @@
     <p>简单记录一下这平凡生活中略微显得有点儿特别的事儿～</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-23-07-26-44.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-23-07-26-44.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -138,8 +138,8 @@
     <p>我：好的 ～ 好的 ～</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-21-23-25-53.png" @click="openModal(0)"/>
-    <img src="../assets/2025-01-21-23-25-40.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-21-23-25-53.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-21-23-25-40.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -217,7 +217,7 @@
     <p>排骨汤</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-04-21-13-01.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-13-01.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -233,7 +233,7 @@
     <p>地铁上差点儿没晕过去</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-04-21-47-56.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-47-56.png" @click="openModal(0)"/>
   </template>
   <template #other-info>☀️</template>
 </Footprints>
@@ -246,8 +246,8 @@
     <p>乌鸡汤</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-04-21-12-36.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-04-21-12-41.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-12-36.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-12-41.png" @click="openModal(1)"/>
   </template>
   <template #other-info>🌙</template>
 </Footprints>
@@ -260,6 +260,6 @@
     <p>下单了一个白色的珐琅锅</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-19-10-12.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-19-10-12.png" @click="openModal(0)"/>
   </template>
 </Footprints>

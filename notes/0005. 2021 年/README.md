@@ -9,7 +9,7 @@
     <p>考研顺利</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-18-14.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-18-14.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -29,15 +29,15 @@
     <p>。。。不早了，不写了，洗澡去。。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-18-40.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-18-46.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-13-18-52.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-16-13-18-58.png" @click="openModal(3)"/>
-    <img src="../assets/2025-02-16-13-19-02.png" @click="openModal(4)"/>
-    <img src="../assets/2025-02-16-13-19-06.png" @click="openModal(5)"/>
-    <img src="../assets/2025-02-16-13-19-10.png" @click="openModal(6)"/>
-    <img src="../assets/2025-02-16-13-19-15.png" @click="openModal(7)"/>
-    <img src="../assets/2025-02-16-13-19-20.png" @click="openModal(8)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-18-40.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-18-46.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-18-52.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-18-58.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-19-02.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-19-06.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-19-10.png" @click="openModal(6)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-19-15.png" @click="openModal(7)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-19-20.png" @click="openModal(8)"/>
   </template>
 </Footprints>
 
@@ -58,7 +58,7 @@
     <p>建桥公司：天冷了，又到了赚钱的季节。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-21-11.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-21-11.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -72,7 +72,7 @@
     <p>一战成硕~</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-22-03.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-22-03.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -84,8 +84,8 @@
     <p>21天</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-22-51.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-23-07.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-22-51.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-23-07.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -102,7 +102,7 @@
     <p>坐位体前屈 10</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-23-53.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-23-53.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -124,10 +124,10 @@
     <p>全程跑</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-25-19.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-25-24.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-13-25-30.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-16-13-25-35.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-25-19.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-25-24.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-25-30.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-25-35.png" @click="openModal(3)"/>
   </template>
 </Footprints>
 
@@ -138,7 +138,7 @@
     <p>这📸 技术，可还行</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-26-24.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-26-24.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -154,9 +154,9 @@
     <p>这个景点，看了很久，回想起一部电影，好像是西班牙的《饥饿站台》。。。感觉好像</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-27-03.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-27-07.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-13-27-13.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-27-03.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-27-07.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-27-13.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -167,8 +167,8 @@
     <p>格局小了，忘记问价格了 🤦‍♂️🤦‍♂️🤦‍♂️</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-27-49.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-27-56.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-27-49.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-27-56.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -183,12 +183,12 @@
     <p>最后，无意间看到了一位素未谋面的朋友写下的心愿，巧了。。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-28-42.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-28-48.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-13-28-55.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-16-13-29-00.png" @click="openModal(3)"/>
-    <img src="../assets/2025-02-16-13-29-07.png" @click="openModal(4)"/>
-    <img src="../assets/2025-02-16-13-29-13.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-28-42.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-28-48.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-28-55.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-29-00.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-29-07.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-29-13.png" @click="openModal(5)"/>
   </template>
 </Footprints>
 
@@ -199,7 +199,7 @@
     <p>连续 4 天没去自习室，打开选座页面，发现。。。居然今天已经学习5小时 😅😅😅</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-30-46.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-30-46.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -213,7 +213,7 @@
     <p>明天就去吃你的灵魂。。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-31-26.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-31-26.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -224,9 +224,9 @@
     <p>看到一只大蚊子，我和室友的第一反应是来个特写。。。🤦‍♂️🤦‍♂️🤦‍♂️</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-31-53.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-31-57.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-13-32-02.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-31-53.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-31-57.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-32-02.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -238,9 +238,9 @@
     <p>结果回寝的路上冻成傻🐶 。。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-32-52.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-32-57.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-13-33-02.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-32-52.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-32-57.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-33-02.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -253,8 +253,8 @@
     <p>也不顶用了</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-33-55.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-34-03.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-33-55.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-34-03.png" @click="openModal(1)"/>
   </template>
   <template #other-info>定位：上海市 · 上海建桥学院图书馆</template>
 </Footprints>
@@ -267,8 +267,8 @@
     <p>偷吃，被抓。。。。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-35-43.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-35-47.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-35-43.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-35-47.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -280,9 +280,9 @@
     <p>好在，姿势标准，动作优雅，仅掉了一滴血</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-36-24.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-36-30.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-13-36-34.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-36-24.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-36-30.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-36-34.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -293,9 +293,9 @@
     <p>抢位置时的我。。。  🎶   buff  加成！！！</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-37-26.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-37-32.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-13-37-37.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-37-26.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-37-32.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-37-37.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -307,10 +307,10 @@
     <p>这哥丑照难得截到。。。 奉上奉上</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-39-36.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-39-42.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-13-39-47.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-16-13-39-52.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-39-36.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-39-42.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-39-47.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-39-52.png" @click="openModal(3)"/>
   </template>
 </Footprints>
 
@@ -322,7 +322,7 @@
     <p>🧐🧐🧐🧐🧐🧐</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-40-51.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-40-51.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -339,8 +339,8 @@
     <p>就是没有好吃的，啊。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-41-26.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-13-41-32.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-41-26.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-41-32.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -351,6 +351,6 @@
     <p>wu~~~</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-13-41-54.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-41-54.png" @click="openModal(0)"/>
   </template>
 </Footprints>

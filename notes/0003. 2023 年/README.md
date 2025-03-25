@@ -8,7 +8,7 @@
     <p>好在不影响整体的故事逻辑，感觉所有的精华都浓缩在惠英红处镜的片段里了！</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-13-00-01-42.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-01-42.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -31,8 +31,8 @@
     <p>合上电脑时才发现个职业病，浏览器一开就是一堆页面。。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-13-00-02-04.png" @click="openModal(0)"/>
-    <img src="../assets/2025-01-13-00-02-10.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-02-04.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-02-10.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -46,8 +46,8 @@
     <p>加个餐</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-13-00-02-19.png" @click="openModal(0)"/>
-    <img src="../assets/2025-01-13-00-02-24.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-02-19.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-02-24.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -60,7 +60,7 @@
     <p>本睡在右侧的小忽悠二号趴了过来，以左手为枕 zzz~</p>
     <p>然后... 有了这条视频...</p>
   </template>
-  <!-- <video controls src="../assets/23-08-08.mp4" /> -->
+  <!-- <video controls src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/23-08-08.mp4" /> -->
   <!-- <iframe style="width: 100%; aspect-ratio: 1;" src="//player.bilibili.com/player.html?isOutside=true&aid=1755521687&bvid=BV1544219774&cid=1582630210&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> -->
 </Footprints>
 
@@ -75,7 +75,7 @@
     <p>走 带你去看海底星空</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-13-00-05-19.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-05-19.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -86,9 +86,9 @@
     <p>中道崩殂</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-13-00-10-15.png" @click="openModal(0)"/>
-    <img src="../assets/2025-01-13-00-10-19.png" @click="openModal(1)"/>
-    <img src="../assets/2025-01-13-00-10-26.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-10-15.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-10-19.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-10-26.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -109,7 +109,7 @@
     <p>看了第一集，高度还原原著，原著党表示狂喜……</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-13-00-05-49.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-05-49.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -121,9 +121,9 @@
     <p>写错收件地址的大哥再联系不上，我可就塞冰箱了，正巧到饭点，总想着偷两只来下面。。。😅😅😅</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-01-13-00-05-58.png" @click="openModal(0)"/>
-    <img src="../assets/2025-01-13-00-06-05.png" @click="openModal(1)"/>
-    <img src="../assets/2025-01-13-00-06-13.png" @click="openModal(2)"/>
-    <img src="../assets/2025-01-13-00-06-18.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-05-58.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-06-05.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-06-13.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-06-18.png" @click="openModal(3)"/>
   </template>
 </Footprints>

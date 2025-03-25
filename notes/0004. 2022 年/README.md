@@ -39,7 +39,7 @@
     <p>顶不住了</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-27-11.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-27-11.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -56,9 +56,9 @@
     <p>PS：十月夜跑 81 圈（800m/圈），才减一公斤 😅😅😅</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-30-15.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-21-30-20.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-15-21-30-25.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-30-15.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-30-20.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-30-25.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -70,7 +70,7 @@
     <p>我：对！对！对！</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-31-37.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-31-37.png" @click="openModal(0)"/>
   </template>
   <template #time>2022-09-15 02:14</template>
 </Footprints>
@@ -84,8 +84,8 @@
     <p>最后再抢救一下吧，希望我这神仙操作不是加速了你的死亡</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-32-53.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-21-33-07.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-32-53.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-33-07.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -99,9 +99,9 @@
     <p>吃面时：... 生而为人，我很抱歉</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-34-23.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-21-34-28.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-15-21-34-32.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-34-23.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-34-28.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-34-32.png" @click="openModal(2)"/>
   </template>
   <template #time>2022-07-22 08:13</template>
 </Footprints>
@@ -129,12 +129,12 @@
     <p>最后，还是不捣腾了，把公区厨房搞得乌烟瘴气，室友得提刀来见了。这就是我今晚吃烧烤的理由。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-37-12.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-21-37-17.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-15-21-37-45.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-15-21-38-07.png" @click="openModal(3)"/>
-    <img src="../assets/2025-02-15-21-38-27.png" @click="openModal(4)"/>
-    <img src="../assets/2025-02-15-21-38-40.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-37-12.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-37-17.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-37-45.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-38-07.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-38-27.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-38-40.png" @click="openModal(5)"/>
   </template>
 </Footprints>
 
@@ -145,8 +145,8 @@
     <p>本只想要三个，搁的时候掉下来八个。。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-39-55.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-21-39-52.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-39-55.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-39-52.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -159,12 +159,12 @@
     <p>毕业当程序员去啦，这是开始时候的发际线。几年后再拍，应该就不需要用手把头发往上撩叭！！！</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-41-42.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-21-41-52.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-15-21-41-56.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-15-21-42-00.png" @click="openModal(3)"/>
-    <img src="../assets/2025-02-15-21-42-07.png" @click="openModal(4)"/>
-    <img src="../assets/2025-02-15-21-42-15.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-41-42.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-41-52.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-41-56.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-42-00.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-42-07.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-42-15.png" @click="openModal(5)"/>
   </template>
 </Footprints>
 
@@ -179,8 +179,8 @@
     <p>如果这次你考砸了，肯定不是你哥把运气用光了。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-44-26.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-21-44-30.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-44-26.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-44-30.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -212,8 +212,8 @@
     <p>😭😭 想吃粽子</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-48-08.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-21-48-14.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-48-08.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-48-14.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -227,9 +227,9 @@
     <p>整理个人物品，没想到翻到了四年前的一封家书，然后立刻去找爸妈，结果老妈还真找到了我入学时写给他们的信。</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-15-21-50-59.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-15-21-51-04.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-15-21-51-07.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-50-59.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-51-04.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-51-07.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -252,8 +252,8 @@
     <p>确实是给封怕了。。。</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-12-51-25.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-12-51-31.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-51-25.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-51-31.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -269,13 +269,13 @@
     <p>插曲：今儿去做核酸，使用吃糖计时法计时，薄荷糖含在嘴里，含完3颗后，差不多排完了2/3，然后继续吃第4颗，谁曾想才吃到一半，突然听到“张嘴”。。然后立刻摘下口罩，才意识到嘴里还有糖。。随即立刻吐到手上，做完核酸。。</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-12-51-50.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-12-51-57.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-12-52-03.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-16-12-52-08.png" @click="openModal(3)"/>
-    <img src="../assets/2025-02-16-12-52-24.png" @click="openModal(4)"/>
-    <img src="../assets/2025-02-16-12-52-37.png" @click="openModal(5)"/>
-    <img src="../assets/2025-02-16-12-52-42.png" @click="openModal(6)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-51-50.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-51-57.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-52-03.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-52-08.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-52-24.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-52-37.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-52-42.png" @click="openModal(6)"/>
   </template>
 </Footprints>
 
@@ -288,8 +288,8 @@
     <p>回到寝室后，突然想到学校给咋们留校的同学发的餐券，抱着想请大伙吃顿好的的想法，找到当时领导慰问时发的红包，一摸，挺厚。一笑，打开一看。。。建桥还是老谋深算，不及不及</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-12-52-54.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-12-53-00.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-52-54.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-00.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -301,15 +301,15 @@
     <p>没文案</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-12-53-07.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-12-53-14.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-12-53-20.png" @click="openModal(2)"/>
-    <img src="../assets/2025-02-16-12-53-24.png" @click="openModal(3)"/>
-    <img src="../assets/2025-02-16-12-53-28.png" @click="openModal(4)"/>
-    <img src="../assets/2025-02-16-12-53-34.png" @click="openModal(5)"/>
-    <img src="../assets/2025-02-16-12-53-39.png" @click="openModal(6)"/>
-    <img src="../assets/2025-02-16-12-53-44.png" @click="openModal(7)"/>
-    <img src="../assets/2025-02-16-12-53-50.png" @click="openModal(8)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-07.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-14.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-20.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-24.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-28.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-34.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-39.png" @click="openModal(6)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-44.png" @click="openModal(7)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-53-50.png" @click="openModal(8)"/>
   </template>
 </Footprints>
 
@@ -329,9 +329,9 @@
     <p>好在还能清醒地把这 pyq 文案编辑完。。。溜了溜了。。。</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-12-54-00.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-12-54-06.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-12-54-10.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-00.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-06.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-10.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -342,7 +342,7 @@
     <p>穷孩子们㊗️大家新年快乐 😄😄😄</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-12-54-16.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-16.png" @click="openModal(0)"/>
   </template>
   <template #time>2022-01-31 23:51</template>
 </Footprints>
@@ -356,8 +356,8 @@
     <p>都穷学生，蜡烛就用打火机凑合凑合</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-12-54-26.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-12-54-30.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-26.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-30.png" @click="openModal(1)"/>
   </template>
   <template #time>2022-01-29 23:59</template>
 </Footprints>
@@ -376,8 +376,8 @@
     <p>希望能换换手气</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="../assets/2025-02-16-12-54-37.png" @click="openModal(0)"/>
-    <img src="../assets/2025-02-16-12-54-42.png" @click="openModal(1)"/>
-    <img src="../assets/2025-02-16-12-54-47.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-37.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-42.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-47.png" @click="openModal(2)"/>
   </template>
 </Footprints>
