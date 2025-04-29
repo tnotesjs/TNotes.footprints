@@ -1,7 +1,9 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.footprints",
-  "keywords": ["TNotes.footprints"],
+  "keywords": [
+    "TNotes.footprints"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -50,5 +52,6 @@
       "link": "https://github.com/Tdahuyou/TNotes.template",
       "icon": "github"
     }
-  ]
+  ],
+  "id": "2dbf3a07-b5a1-4b60-8f03-05f3cc163938"
 }
