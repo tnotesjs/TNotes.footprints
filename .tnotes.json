@@ -1,7 +1,9 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.footprints",
-  "keywords": ["TNotes.footprints"],
+  "keywords": [
+    "TNotes.footprints"
+  ],
   "ignore_dirs": [
     ".vscode",
     "0000",
