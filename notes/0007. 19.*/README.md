@@ -1,4 +1,4 @@
-# [0007. 2019 年](https://github.com/Tdahuyou/TNotes.footprints/tree/main/notes/0007.%202019%20%E5%B9%B4)
+# [0007. 19.*](https://github.com/Tdahuyou/TNotes.footprints/tree/main/notes/0007.%2019.*)
 
 ## 🗓 08-20
 

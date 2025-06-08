@@ -1,4 +1,4 @@
-# [0005. 2021 年](https://github.com/Tdahuyou/TNotes.footprints/tree/main/notes/0005.%202021%20%E5%B9%B4)
+# [0005. 21.*](https://github.com/Tdahuyou/TNotes.footprints/tree/main/notes/0005.%2021.*)
 
 ## 🗓 12-24
 

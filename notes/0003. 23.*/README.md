@@ -1,4 +1,4 @@
-# [0003. 2023 年](https://github.com/Tdahuyou/TNotes.footprints/tree/main/notes/0003.%202023%20%E5%B9%B4)
+# [0003. 23.*](https://github.com/Tdahuyou/TNotes.footprints/tree/main/notes/0003.%2023.*)
 
 ## 🗓 10-28
 

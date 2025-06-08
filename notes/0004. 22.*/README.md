@@ -1,4 +1,4 @@
-# [0004. 2022 年](https://github.com/Tdahuyou/TNotes.footprints/tree/main/notes/0004.%202022%20%E5%B9%B4)
+# [0004. 22.*](https://github.com/Tdahuyou/TNotes.footprints/tree/main/notes/0004.%2022.*)
 
 ## 🗓 12-22
 
