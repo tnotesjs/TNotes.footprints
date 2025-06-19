@@ -2,19 +2,19 @@
 
 <!-- region:toc -->
 
-- [1. 🗓 01.22](#1--0122)
-- [2. 🗓 01.21](#2--0121)
-- [3. 🗓 01.20](#3--0120)
-- [4. 🗓 01.20](#4--0120)
-- [5. 🗓 01.19](#5--0119)
-- [6. 🗓 01.12](#6--0112)
-- [7. 🗓 01.11](#7--0111)
-- [8. 🗓 01.11](#8--0111)
-- [9. 🗓 01.08](#9--0108)
+- [1. 🗓 25.01.22](#1--250122)
+- [2. 🗓 25.01.21](#2--250121)
+- [3. 🗓 25.01.20](#3--250120)
+- [4. 🗓 25.01.20](#4--250120)
+- [5. 🗓 25.01.19](#5--250119)
+- [6. 🗓 25.01.12](#6--250112)
+- [7. 🗓 25.01.11](#7--250111)
+- [8. 🗓 25.01.11](#8--250111)
+- [9. 🗓 25.01.08](#9--250108)
 
 <!-- endregion:toc -->
 
-## 1. 🗓 01.22
+## 1. 🗓 25.01.22
 
 <Footprints :times="[2025, 1, 22, 23, 47]">
   <template #text-area>
@@ -36,7 +36,7 @@
   </template>
 </Footprints>
 
-## 2. 🗓 01.21
+## 2. 🗓 25.01.21
 
 <Footprints :times="[2025, 1, 21, 23, 20]">
   <template #text-area>
@@ -49,7 +49,7 @@
   </template>
 </Footprints>
 
-## 3. 🗓 01.20
+## 3. 🗓 25.01.20
 
 <Footprints :times="[2025, 1, 20]">
   <template #text-area>
@@ -65,7 +65,7 @@
   <template #other-info>☀️</template>
 </Footprints>
 
-## 4. 🗓 01.20
+## 4. 🗓 25.01.20
 
 <Footprints :times="[2025, 1, 20]">
   <template #text-area>
@@ -83,7 +83,7 @@
   <template #other-info>🌙</template>
 </Footprints>
 
-## 5. 🗓 01.19
+## 5. 🗓 25.01.19
 
 <Footprints :times="[2025, 1, 19]">
   <template #text-area>
@@ -115,7 +115,7 @@
   </template>
 </Footprints>
 
-## 6. 🗓 01.12
+## 6. 🗓 25.01.12
 
 <Footprints :times="[2025, 1, 12]">
   <template #text-area>
@@ -127,7 +127,7 @@
   </template>
 </Footprints>
 
-## 7. 🗓 01.11
+## 7. 🗓 25.01.11
 
 <Footprints :times="[2025, 1, 11]">
   <template #text-area>
@@ -144,7 +144,7 @@
   <template #other-info>☀️</template>
 </Footprints>
 
-## 8. 🗓 01.11
+## 8. 🗓 25.01.11
 
 <Footprints :times="[2025, 1, 11]">
   <template #text-area>
@@ -158,7 +158,7 @@
   <template #other-info>🌙</template>
 </Footprints>
 
-## 9. 🗓 01.08
+## 9. 🗓 25.01.08
 
 <Footprints :times="[2025, 1, 8, 18, 40, 23]">
   <template #text-area>

@@ -2,14 +2,14 @@
 
 <!-- region:toc -->
 
-- [1. 🗓 02.24](#1--0224)
-- [2. 🗓 02.24](#2--0224)
-- [3. 🗓 02.12](#3--0212)
-- [4. 🗓 02.10](#4--0210)
+- [1. 🗓 24.02.24](#1--240224)
+- [2. 🗓 24.02.24](#2--240224)
+- [3. 🗓 24.02.12](#3--240212)
+- [4. 🗓 24.02.10](#4--240210)
 
 <!-- endregion:toc -->
 
-## 1. 🗓 02.24
+## 1. 🗓 24.02.24
 
 <Footprints :times="[2024, 2, 24, 16, 29]">
   <template #text-area>
@@ -21,7 +21,7 @@
   <template #other-info>元宵节</template>
 </Footprints>
 
-## 2. 🗓 02.24
+## 2. 🗓 24.02.24
 
 <Footprints :times="[2024, 2, 24, 12, 12]">
   <template #text-area>
@@ -33,7 +33,7 @@
   <template #other-info>元宵节</template>
 </Footprints>
 
-## 3. 🗓 02.12
+## 3. 🗓 24.02.12
 
 <Footprints :times="[2024, 2, 12, 0, 17]">
   <template #text-area>
@@ -57,7 +57,7 @@
   <template #other-info>大年初三</template>
 </Footprints>
 
-## 4. 🗓 02.10
+## 4. 🗓 24.02.10
 
 <Footprints :times="[2024, 2, 10, 23, 37]">
   <template #text-area>
