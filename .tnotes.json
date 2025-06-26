@@ -18,9 +18,9 @@
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--footprints.svg"
     },
-    "title": "活着的一些动态",
+    "title": "footprints",
     "completed_notes_count": 43,
-    "details": "类似于一个在线版的微信朋友圈",
+    "details": "记录活着的一些动态 - 在线版的微信朋友圈",
     "link": "https://tdahuyou.github.io/TNotes.footprints/"
   },
   "port": 9380,
