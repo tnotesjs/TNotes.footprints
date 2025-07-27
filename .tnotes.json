@@ -13,15 +13,18 @@
     "demos",
     "assets"
   ],
-  "rootDocsSrcDir": "../_/docs/src",
-  "home.features.item": {
+  "rootSidebarDir": "../_/sidebars",
+  "root_item": {
     "icon": {
       "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--footprints.svg"
     },
     "title": "footprints",
     "completed_notes_count": 43,
     "details": "记录活着的一些动态 - 在线版的微信朋友圈",
-    "link": "https://tdahuyou.github.io/TNotes.footprints/"
+    "link": "https://tdahuyou.github.io/TNotes.footprints/",
+    "created_at": 1741009521000,
+    "updated_at": 1753580639000,
+    "days_since_birth": 9380
   },
   "port": 9380,
   "menuItems": [
