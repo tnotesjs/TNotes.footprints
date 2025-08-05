@@ -3,6 +3,8 @@
 
 ## 1. 🗓 2025 年
 
+- [x] [0025. 25.05](https://tdahuyou.github.io/TNotes.footprints/notes/0025.%2025.05/README)
+  - [1. 🗓 25.05.18](https://tdahuyou.github.io/TNotes.footprints/notes/0025.%2025.05/README#1--250518)
 - [x] [0008. 25.02](https://tdahuyou.github.io/TNotes.footprints/notes/0008.%2025.02/README)
   - [1. 🗓 25.02.15](https://tdahuyou.github.io/TNotes.footprints/notes/0008.%2025.02/README#1--250215)
   - [2. 🗓 25.02.14](https://tdahuyou.github.io/TNotes.footprints/notes/0008.%2025.02/README#2--250214)
