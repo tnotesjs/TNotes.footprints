@@ -1,4 +1,4 @@
-# [0038. 20.07](https://github.com/Tdahuyou/TNotes.footprints/tree/main/notes/0038.%2020.07)
+# [0038. 20.07](https://github.com/tnotesjs/TNotes.footprints/tree/main/notes/0038.%2020.07)
 
 <!-- region:toc -->
 
