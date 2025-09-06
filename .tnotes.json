@@ -1,5 +1,5 @@
 {
-  "author": "Tdahuyou",
+  "author": "tnotesjs",
   "repoName": "TNotes.footprints",
   "keywords": ["TNotes.footprints"],
   "ignore_dirs": [
@@ -19,7 +19,7 @@
     "title": "footprints",
     "completed_notes_count": 44,
     "details": "记录活着的一些动态 - 在线版的微信朋友圈",
-    "link": "https://tdahuyou.github.io/TNotes.footprints/",
+    "link": "https://tnotesjs.github.io/TNotes.footprints/",
     "created_at": 1741009521000,
     "updated_at": 1757163546853,
     "days_since_birth": 9380
@@ -36,7 +36,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tdahuyou.github.io/notes"
+      "link": "https://tnotesjs.github.io/notes"
     },
     {
       "text": "📂 TNotes.yuque",
