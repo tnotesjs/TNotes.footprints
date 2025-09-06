@@ -17,9 +17,9 @@
     <p>整理个人物品，没想到翻到了四年前的一封家书，然后立刻去找爸妈，结果老妈还真找到了我入学时写给他们的信。</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-50-59.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-51-04.png" @click="openModal(1)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-51-07.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-50-59.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-51-04.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-51-07.png" @click="openModal(2)"/>
   </template>
 </Footprints>
 
@@ -42,7 +42,7 @@
     <p>确实是给封怕了。。。</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-51-25.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-51-31.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-12-51-25.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-12-51-31.png" @click="openModal(1)"/>
   </template>
 </Footprints>

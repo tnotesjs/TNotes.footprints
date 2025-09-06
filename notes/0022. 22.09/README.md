@@ -15,7 +15,7 @@
     <p>我：对！对！对！</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-31-37.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-31-37.png" @click="openModal(0)"/>
   </template>
   <template #time>2022-09-15 02:14</template>
 </Footprints>
@@ -29,7 +29,7 @@
     <p>最后再抢救一下吧，希望我这神仙操作不是加速了你的死亡</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-32-53.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-33-07.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-32-53.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-33-07.png" @click="openModal(1)"/>
   </template>
 </Footprints>

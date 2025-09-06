@@ -17,8 +17,8 @@
     <p>本只想要三个，搁的时候掉下来八个。。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-39-55.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-39-52.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-39-55.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-39-52.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -31,12 +31,12 @@
     <p>毕业当程序员去啦，这是开始时候的发际线。几年后再拍，应该就不需要用手把头发往上撩叭！！！</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-41-42.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-41-52.png" @click="openModal(1)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-41-56.png" @click="openModal(2)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-42-00.png" @click="openModal(3)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-42-07.png" @click="openModal(4)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-42-15.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-41-42.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-41-52.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-41-56.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-42-00.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-42-07.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-42-15.png" @click="openModal(5)"/>
   </template>
 </Footprints>
 
@@ -51,8 +51,8 @@
     <p>如果这次你考砸了，肯定不是你哥把运气用光了。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-44-26.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-44-30.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-44-26.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-44-30.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -84,7 +84,7 @@
     <p>😭😭 想吃粽子</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-48-08.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-21-48-14.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-48-08.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-48-14.png" @click="openModal(1)"/>
   </template>
 </Footprints>

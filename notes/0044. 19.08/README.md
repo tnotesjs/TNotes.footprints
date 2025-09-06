@@ -32,13 +32,13 @@
     <p>哥几个可都存好咯</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-34-33.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-34-42.png" @click="openModal(1)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-34-47.png" @click="openModal(2)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-34-51.png" @click="openModal(3)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-34-56.png" @click="openModal(4)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-35-00.png" @click="openModal(5)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-35-05.png" @click="openModal(6)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-35-10.png" @click="openModal(7)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-34-33.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-34-42.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-34-47.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-34-51.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-34-56.png" @click="openModal(4)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-35-00.png" @click="openModal(5)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-35-05.png" @click="openModal(6)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-35-10.png" @click="openModal(7)"/>
   </template>
 </Footprints>

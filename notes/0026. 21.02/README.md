@@ -16,10 +16,10 @@
     <p>这哥丑照难得截到。。。 奉上奉上</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-39-36.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-39-42.png" @click="openModal(1)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-39-47.png" @click="openModal(2)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-39-52.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-39-36.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-39-42.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-39-47.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-39-52.png" @click="openModal(3)"/>
   </template>
 </Footprints>
 
@@ -31,7 +31,7 @@
     <p>🧐🧐🧐🧐🧐🧐</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-40-51.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-40-51.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -48,7 +48,7 @@
     <p>就是没有好吃的，啊。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-41-26.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-41-32.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-41-26.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-41-32.png" @click="openModal(1)"/>
   </template>
 </Footprints>

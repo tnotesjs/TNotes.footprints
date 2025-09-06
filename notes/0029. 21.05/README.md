@@ -26,10 +26,10 @@
     <p>全程跑</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-25-19.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-25-24.png" @click="openModal(1)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-25-30.png" @click="openModal(2)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-25-35.png" @click="openModal(3)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-25-19.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-25-24.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-25-30.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-25-35.png" @click="openModal(3)"/>
   </template>
 </Footprints>
 
@@ -40,6 +40,6 @@
     <p>这📸 技术，可还行</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-26-24.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-26-24.png" @click="openModal(0)"/>
   </template>
 </Footprints>

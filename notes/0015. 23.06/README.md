@@ -13,6 +13,6 @@
     <p>走 带你去看海底星空</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-05-19.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-13-00-05-19.png" @click="openModal(0)"/>
   </template>
 </Footprints>

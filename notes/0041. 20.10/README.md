@@ -35,7 +35,7 @@
     <p>打卡打卡</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-12-11.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-12-11.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -56,8 +56,8 @@
     <p>10来天没跑，晚上来冲了一圈。。。  结果🦵 抽筋了😭😭😭</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-12-21.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-12-29.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-12-21.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-12-29.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -69,6 +69,6 @@
     <p>感谢室友黄大大的VIP助阵 🫡🫡</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-12-39.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-12-39.png" @click="openModal(0)"/>
   </template>
 </Footprints>

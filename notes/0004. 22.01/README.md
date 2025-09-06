@@ -15,7 +15,7 @@
     <p>穷孩子们㊗️大家新年快乐 😄😄😄</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-16.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-12-54-16.png" @click="openModal(0)"/>
   </template>
   <template #time>2022-01-31 23:51</template>
 </Footprints>
@@ -29,8 +29,8 @@
     <p>都穷学生，蜡烛就用打火机凑合凑合</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-26.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-30.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-12-54-26.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-12-54-30.png" @click="openModal(1)"/>
   </template>
   <template #time>2022-01-29 23:59</template>
 </Footprints>
@@ -49,8 +49,8 @@
     <p>希望能换换手气</p>
   </template>
     <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-37.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-42.png" @click="openModal(1)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-12-54-47.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-12-54-37.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-12-54-42.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-12-54-47.png" @click="openModal(2)"/>
   </template>
 </Footprints>

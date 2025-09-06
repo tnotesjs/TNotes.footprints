@@ -15,7 +15,7 @@
     <p>本睡在右侧的小忽悠二号趴了过来，以左手为枕 zzz~</p>
     <p>然后... 有了这条视频...</p>
   </template>
-  <!-- <video controls src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/23-08-08.mp4" /> -->
+  <!-- <video controls src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/23-08-08.mp4" /> -->
   <!-- <iframe style="width: 100%; aspect-ratio: 1;" src="//player.bilibili.com/player.html?isOutside=true&aid=1755521687&bvid=BV1544219774&cid=1582630210&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> -->
 </Footprints>
 

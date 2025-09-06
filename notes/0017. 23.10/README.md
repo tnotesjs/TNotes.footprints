@@ -16,7 +16,7 @@
     <p>好在不影响整体的故事逻辑，感觉所有的精华都浓缩在惠英红处镜的片段里了！</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-01-42.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-13-00-01-42.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -39,8 +39,8 @@
     <p>合上电脑时才发现个职业病，浏览器一开就是一堆页面。。。</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-02-04.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-02-10.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-13-00-02-04.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-13-00-02-10.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -54,7 +54,7 @@
     <p>加个餐</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-02-19.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-13-00-02-24.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-13-00-02-19.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-13-00-02-24.png" @click="openModal(1)"/>
   </template>
 </Footprints>

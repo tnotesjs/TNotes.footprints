@@ -16,6 +16,6 @@
     <p>更珍惜的是咋们社团的免费；</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-13-47.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-13-47.png" @click="openModal(0)"/>
   </template>
 </Footprints>

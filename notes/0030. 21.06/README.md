@@ -19,6 +19,6 @@
     <p>坐位体前屈 10</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-23-53.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-23-53.png" @click="openModal(0)"/>
   </template>
 </Footprints>

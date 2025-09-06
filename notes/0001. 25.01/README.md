@@ -32,7 +32,7 @@
     <p>简单记录一下这平凡生活中略微显得有点儿特别的事儿～</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-23-07-26-44.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-23-07-26-44.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -44,8 +44,8 @@
     <p>我：好的 ～ 好的 ～</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-21-23-25-53.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-21-23-25-40.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-21-23-25-53.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-21-23-25-40.png" @click="openModal(1)"/>
   </template>
 </Footprints>
 
@@ -123,7 +123,7 @@
     <p>排骨汤</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-13-01.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-04-21-13-01.png" @click="openModal(0)"/>
   </template>
 </Footprints>
 
@@ -139,7 +139,7 @@
     <p>地铁上差点儿没晕过去</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-47-56.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-04-21-47-56.png" @click="openModal(0)"/>
   </template>
   <template #other-info>☀️</template>
 </Footprints>
@@ -152,8 +152,8 @@
     <p>乌鸡汤</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-12-36.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-04-21-12-41.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-04-21-12-36.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-04-21-12-41.png" @click="openModal(1)"/>
   </template>
   <template #other-info>🌙</template>
 </Footprints>
@@ -166,6 +166,6 @@
     <p>下单了一个白色的珐琅锅</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-15-19-10-12.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-19-10-12.png" @click="openModal(0)"/>
   </template>
 </Footprints>

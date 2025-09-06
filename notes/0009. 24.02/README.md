@@ -16,7 +16,7 @@
     <p>绝育 end ～</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-18-08-57.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-12-18-08-57.png" @click="openModal(0)"/>
   </template>
   <template #other-info>元宵节</template>
 </Footprints>
@@ -28,7 +28,7 @@
     <p>开始绝育</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-18-09.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-12-19-18-09.png" @click="openModal(0)"/>
   </template>
   <template #other-info>元宵节</template>
 </Footprints>
@@ -50,9 +50,9 @@
     <p>搜如何缓解猫咪发情时的痛苦，正在学习按摩手法中…</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-18-50.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-18-54.png" @click="openModal(1)"/>
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-18-59.png" @click="openModal(2)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-12-19-18-50.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-12-19-18-54.png" @click="openModal(1)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-12-19-18-59.png" @click="openModal(2)"/>
   </template>
   <template #other-info>大年初三</template>
 </Footprints>
@@ -65,7 +65,7 @@
     <p>还行</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-01-12-19-20-04.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-01-12-19-20-04.png" @click="openModal(0)"/>
   </template>
   <template #other-info>大年初一</template>
 </Footprints>

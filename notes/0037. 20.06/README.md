@@ -13,6 +13,6 @@
     <p>唯一保留下来的特点，除了头大，也没别的了 🤦‍♂️🤦‍♂️🤦‍♂️</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-14-13-54.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-13-54.png" @click="openModal(0)"/>
   </template>
 </Footprints>

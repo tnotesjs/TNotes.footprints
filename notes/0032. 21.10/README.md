@@ -16,6 +16,6 @@
     <p>一战成硕~</p>
   </template>
   <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-02-16-13-22-03.png" @click="openModal(0)"/>
+    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-22-03.png" @click="openModal(0)"/>
   </template>
 </Footprints>
