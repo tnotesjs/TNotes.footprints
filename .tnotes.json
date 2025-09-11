@@ -23,7 +23,7 @@
     "details": "记录活着的一些动态 - 在线版的微信朋友圈",
     "link": "https://tnotesjs.github.io/TNotes.footprints/",
     "created_at": 1741009521000,
-    "updated_at": 1757172130649,
+    "updated_at": 1757554032953,
     "days_since_birth": 9380
   },
   "port": 9380,
@@ -38,7 +38,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tnotesjs.github.io/notes"
+      "link": "https://tnotesjs.github.io/TNotes"
     },
     {
       "text": "📂 TNotes.yuque",
