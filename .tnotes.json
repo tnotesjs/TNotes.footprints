@@ -19,11 +19,22 @@
       "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--footprints.svg"
     },
     "title": "footprints",
-    "completed_notes_count": 44,
+    "completed_notes_count": {
+      "25.03": 0,
+      "25.04": 0,
+      "25.05": 0,
+      "25.06": 0,
+      "25.07": 43,
+      "25.08": 44,
+      "25.09": 44,
+      "25.10": 44,
+      "25.11": 44,
+      "25.12": 44
+    },
     "details": "记录活着的一些动态 - 在线版的微信朋友圈",
     "link": "https://tnotesjs.github.io/TNotes.footprints/",
     "created_at": 1741009521000,
-    "updated_at": 1762780405328,
+    "updated_at": 1764548500042,
     "days_since_birth": 9380
   },
   "port": 9380,
