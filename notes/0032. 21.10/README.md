@@ -8,14 +8,16 @@
 
 ## 1. 21.10.22
 
-<Footprints :times="[2021, 10, 22, 22, 15]">
-  <template #text-area>
-    <p>室友过生日</p>
-    <p>朋友圈先吃</p>
-    <p>㊗️ 老黄</p>
-    <p>一战成硕~</p>
-  </template>
-  <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-22-03.png" @click="openModal(0)"/>
-  </template>
-</Footprints>
+::: footprints 2021-10-22 22:15
+
+室友过生日
+
+朋友圈先吃
+
+㊗️ 老黄
+
+一战成硕~
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-22-03.png)
+
+:::

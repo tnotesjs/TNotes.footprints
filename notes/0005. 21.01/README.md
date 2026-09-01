@@ -8,11 +8,10 @@
 
 ## 1. 21.01.25
 
-<Footprints :times="[2021, 1, 25, 23, 19]">
-  <template #text-area>
-    <p>wu~~~</p>
-  </template>
-  <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-41-54.png" @click="openModal(0)"/>
-  </template>
-</Footprints>
+::: footprints 2021-01-25 23:19
+
+wu~~~
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-41-54.png)
+
+:::

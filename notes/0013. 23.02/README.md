@@ -8,8 +8,8 @@
 
 ## 1. 23.02.21
 
-<Footprints :times="[2023, 2, 21, 15, 32]">
-  <template #text-area>
-    <p>wu~~~~~~ 船长牛逼！！！！！！</p>
-  </template>
-</Footprints>
+::: footprints 2023-02-21 15:32
+
+wu~~~~~~ 船长牛逼！！！！！！
+
+:::

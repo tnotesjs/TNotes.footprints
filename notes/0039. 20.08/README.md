@@ -8,11 +8,10 @@
 
 ## 1. 20.08.25
 
-<Footprints :times="[2020, 8, 25, 17, 57]">
-  <template #text-area>
-    <p>家里蹲了大半年，终于。。。😭😭😭</p>
-  </template>
-  <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-13-37.png" @click="openModal(0)"/>
-  </template>
-</Footprints>
+::: footprints 2020-08-25 17:57
+
+家里蹲了大半年，终于。。。😭😭😭
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-13-37.png)
+
+:::

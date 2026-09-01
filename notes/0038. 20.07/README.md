@@ -8,14 +8,16 @@
 
 ## 1. 20.07.25
 
-<Footprints :times="[2020, 7, 25, 18, 45]">
-  <template #text-area>
-    <p>打印。。。</p>
-    <p>今儿体会了一块一张的霸道；</p>
-    <p>才懂得校园两毛一张的可爱；</p>
-    <p>更珍惜的是咋们社团的免费；</p>
-  </template>
-  <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-13-47.png" @click="openModal(0)"/>
-  </template>
-</Footprints>
+::: footprints 2020-07-25 18:45
+
+打印。。。
+
+今儿体会了一块一张的霸道；
+
+才懂得校园两毛一张的可爱；
+
+更珍惜的是咋们社团的免费；
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-14-13-47.png)
+
+:::

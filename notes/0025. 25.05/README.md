@@ -8,12 +8,12 @@
 
 ## 1. 25.05.18
 
-<Footprints :times="[2025, 5, 18, 19, 45]">
-  <template #text-area>
-    <p>《不说话的爱》</p>
-    <p>投币～</p>
-  </template>
-  <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-08-05-22-15-53.png" @click="openModal(0)"/>
-  </template>
-</Footprints>
+::: footprints 2025-05-18 19:45
+
+《不说话的爱》
+
+投币～
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-08-05-22-15-53.png)
+
+:::

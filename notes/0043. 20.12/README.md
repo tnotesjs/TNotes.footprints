@@ -8,12 +8,12 @@
 
 ## 1. 20.12.12
 
-<Footprints :times="[2020, 12, 12, 22, 23]">
-  <template #text-area>
-    <p>大意了啊。。。被锁工作室</p>
-  </template>
-  <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-55-56.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-56-01.png" @click="openModal(1)"/>
-  </template>
-</Footprints>
+::: footprints 2020-12-12 22:23
+
+大意了啊。。。被锁工作室
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-55-56.png)
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-16-13-56-01.png)
+
+:::

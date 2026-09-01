@@ -9,31 +9,36 @@
 
 ## 1. 22.11.30
 
-<Footprints :times="[2022, 11, 30, 19, 2]">
-  <template #text-area>
-    <p>顶不住了</p>
-    <p>顶不住了</p>
-  </template>
-  <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-27-11.png" @click="openModal(0)"/>
-  </template>
-</Footprints>
+::: footprints 2022-11-30 19:02
+
+顶不住了
+
+顶不住了
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-27-11.png)
+
+:::
 
 ## 2. 22.11.11
 
-<Footprints :times="[2022, 11, 11, 22, 36]">
-  <template #text-area>
-    <p>10月</p>
-    <p>py：工作多久啦？</p>
-    <p>w：有仨月了叭！</p>
-    <p>py：有啥收获嘛？</p>
-    <p>w：胖了五公斤算不算~</p>
-    <hr />
-    <p>PS：十月夜跑 81 圈（800m/圈），才减一公斤 😅😅😅</p>
-  </template>
-  <template #image-list="{ openModal }">
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-30-15.png" @click="openModal(0)"/>
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-30-20.png" @click="openModal(1)"/>
-    <img src="https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-30-25.png" @click="openModal(2)"/>
-  </template>
-</Footprints>
+::: footprints 2022-11-11 22:36
+
+10月
+
+py：工作多久啦？
+
+w：有仨月了叭！
+
+py：有啥收获嘛？
+
+w：胖了五公斤算不算~
+
+PS：十月夜跑 81 圈（800m/圈），才减一公斤 😅😅😅
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-30-15.png)
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-30-20.png)
+
+![](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-02-15-21-30-25.png)
+
+:::
