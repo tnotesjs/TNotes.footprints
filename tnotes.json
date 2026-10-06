@@ -10,28 +10,7 @@
   "pageUrl": "https://tnotesjs.github.io/TNotes.footprints/",
   "base": "/TNotes.footprints/",
   "stats": {
-    "enabled": true,
-    "completedNotesCount": {
-      "25.03": 6,
-      "25.04": 6,
-      "25.05": 6,
-      "25.06": 43,
-      "25.07": 43,
-      "25.08": 44,
-      "25.09": 44,
-      "25.10": 44,
-      "25.11": 44,
-      "25.12": 44,
-      "26.01": 44,
-      "26.02": 44,
-      "26.03": 44,
-      "26.04": 44,
-      "26.05": 44,
-      "26.06": 44,
-      "26.07": 44,
-      "26.08": 44,
-      "26.09": 44
-    }
+    "enabled": true
   },
   "discussions": true
 }
