@@ -3,7 +3,7 @@
   "name": "TNotes.footprints",
   "description": "记录活着的一些动态 - 在线版的微信朋友圈",
   "icon": {
-    "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--footprints.svg"
+    "src": "../assets/kb-icon.svg"
   },
   "repositoryUrl": "https://github.com/tnotesjs/TNotes.footprints",
   "port": 9380,
